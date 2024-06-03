@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h2>📫 How to reach me:</h2>
 
-[<img align="left" alt="Aldiyar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aldiyar | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/aldiyar-ismailov/
 <!---
